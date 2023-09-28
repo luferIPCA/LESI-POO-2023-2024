@@ -1,0 +1,7 @@
+D:\Temp\LESI\AulasPOOLESI\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Temp\LESI\AulasPOOLESI\Calculadora\bin\Debug\Calculadora.exe
+D:\Temp\LESI\AulasPOOLESI\Calculadora\bin\Debug\Calculadora.pdb
+D:\Temp\LESI\AulasPOOLESI\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Temp\LESI\AulasPOOLESI\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Temp\LESI\AulasPOOLESI\Calculadora\obj\Debug\Calculadora.exe
+D:\Temp\LESI\AulasPOOLESI\Calculadora\obj\Debug\Calculadora.pdb
