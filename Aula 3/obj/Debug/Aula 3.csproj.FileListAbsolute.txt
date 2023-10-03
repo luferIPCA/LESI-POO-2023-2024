@@ -1,0 +1,7 @@
+D:\Temp\LESI\AulasPOOLESI\Aula 3\bin\Debug\Aula 3.exe.config
+D:\Temp\LESI\AulasPOOLESI\Aula 3\bin\Debug\Aula 3.exe
+D:\Temp\LESI\AulasPOOLESI\Aula 3\bin\Debug\Aula 3.pdb
+D:\Temp\LESI\AulasPOOLESI\Aula 3\obj\Debug\Aula 3.csproj.AssemblyReference.cache
+D:\Temp\LESI\AulasPOOLESI\Aula 3\obj\Debug\Aula 3.csproj.CoreCompileInputs.cache
+D:\Temp\LESI\AulasPOOLESI\Aula 3\obj\Debug\Aula 3.exe
+D:\Temp\LESI\AulasPOOLESI\Aula 3\obj\Debug\Aula 3.pdb
