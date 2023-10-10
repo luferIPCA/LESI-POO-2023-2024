@@ -1,0 +1,7 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 4\bin\Debug\Aula 4.exe.config
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 4\bin\Debug\Aula 4.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 4\bin\Debug\Aula 4.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 4\obj\Debug\Aula 4.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 4\obj\Debug\Aula 4.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 4\obj\Debug\Aula 4.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 4\obj\Debug\Aula 4.pdb
