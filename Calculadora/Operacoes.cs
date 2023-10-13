@@ -43,6 +43,4 @@ namespace Calculadora
 
         #endregion
     }
-
-
 }
