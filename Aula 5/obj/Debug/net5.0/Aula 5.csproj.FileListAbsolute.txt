@@ -1,0 +1,16 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\ref\Aula 5.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\ref\Aula 5.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5.genruntimeconfig.cache
