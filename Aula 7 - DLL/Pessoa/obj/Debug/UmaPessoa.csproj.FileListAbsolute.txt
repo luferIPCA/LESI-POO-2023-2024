@@ -1,0 +1,6 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoa\bin\Debug\Pessoa.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoa\bin\Debug\Pessoa.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoa\obj\Debug\UmaPessoa.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoa\obj\Debug\UmaPessoa.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoa\obj\Debug\Pessoa.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoa\obj\Debug\Pessoa.pdb
