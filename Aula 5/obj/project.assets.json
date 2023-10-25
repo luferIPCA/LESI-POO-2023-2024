@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\POO-LESI\\AulasPOOLESI\\Aula 5\\Aula 5.csproj",
-      "projectName": "Aula 5",
-      "projectPath": "D:\\Temp\\POO-LESI\\AulasPOOLESI\\Aula 5\\Aula 5.csproj",
+      "projectUniqueName": "D:\\Temp\\POO-LESI\\AulasPOOLESI\\Aula 5\\Aula 5 - Estruturar Classes.csproj",
+      "projectName": "Aula 5 - Estruturar Classes",
+      "projectPath": "D:\\Temp\\POO-LESI\\AulasPOOLESI\\Aula 5\\Aula 5 - Estruturar Classes.csproj",
       "packagesPath": "C:\\Users\\lufer\\.nuget\\packages\\",
       "outputPath": "D:\\Temp\\POO-LESI\\AulasPOOLESI\\Aula 5\\obj\\",
       "projectStyle": "PackageReference",

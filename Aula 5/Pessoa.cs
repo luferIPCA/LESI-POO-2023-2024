@@ -33,6 +33,7 @@ namespace Aula_5
         {
             idade = 0;
             nome = "";
+        
         }
 
         public Pessoa(int idade, string nome)

@@ -11,7 +11,7 @@ using System;
 namespace Aula_5
 {
     /// <summary>
-    /// Purpose:
+    /// Purpose: Classe que gere um conjunto de Pessoas
     /// Created by: lufer
     /// Created on: 10/17/2023 4:53:05 PM
     /// </summary>
@@ -20,9 +20,10 @@ namespace Aula_5
     public class Pessoas
     {
         #region Attributes
-
-        public string nomeTurma;  
-        public static Pessoa[] turma;   //atributo de classe
+        const int MAXPESSOAS = 10;
+         string nomeTurma;  
+         static int totPessoa;
+         static Pessoa[] turma;   //atributo de classe
 
         #endregion
 
@@ -30,16 +31,22 @@ namespace Aula_5
 
         #region Constructors
 
+
         /// <summary>
-        /// The default Constructor.
+        /// Construtor de classe
         /// </summary>
-        public Pessoas()
+        static Pessoas()
         {
+            totPessoa = 0;
+            turma = new Pessoa[MAXPESSOAS];
+            //inicializar array turma!!!
+
         }
 
         #endregion
 
         #region Properties
+
 
         /// <summary>
         /// Devolve o conjunto de pessoas existentes
@@ -47,11 +54,15 @@ namespace Aula_5
         public static Pessoa[] Turma
         {
             get { return (Pessoa[])turma.Clone(); }
-            //set       EVITAR!
+            set { } // EVITAR!
         }
+
+        public static int TotalPessoas
+        {
+            get { return totPessoa; }
+        }
+
         #endregion
-
-
 
         #region Overrides
         #endregion
@@ -60,8 +71,10 @@ namespace Aula_5
 
         /// <summary>
         /// Mostra todas as pessoas existentes!!!
+        /// Este método ou não deve estar nesta classe!
+        /// Tou deve ser privado!!!
         /// </summary>
-        private void ShowPersons()
+        private void ShowPessoas()
         {
             for(int i=0; i < turma.Length; i++)
             {
@@ -74,7 +87,7 @@ namespace Aula_5
         /// </summary>
         /// <param name="nome"></param>
         /// <returns></returns>
-        public bool ExistePessoa(string nome)
+        public static bool ExistePessoa(string nome)
         {
             foreach(Pessoa p in turma)
             {
@@ -88,7 +101,7 @@ namespace Aula_5
         /// </summary>
         /// <param name="nome">Nome da Pessoa</param>
         /// <returns></returns>
-        public int QuantasPessoas(string nome)
+        public static int QuantasPessoas(string nome)
         {
             int cont = 0;
             foreach (Pessoa p in turma)
@@ -96,6 +109,19 @@ namespace Aula_5
                 if (p.Nome == nome) cont++;
             }
             return cont;
+        }
+
+        /// <summary>
+        /// Insere uma pessoa no conjunto
+        /// </summary>
+        /// <param name="p"></param>
+        /// <returns></returns>
+        public static bool InserePessoa(Pessoa p)
+        {
+            //Validações: //return false;
+            turma[totPessoa] = p;
+            totPessoa++;
+            return true;
         }
 
         //Quantas Pessoas com o nome "X" existem? FEITO
@@ -115,6 +141,7 @@ namespace Aula_5
         /// </summary>
         ~Pessoas()
         {
+
         }
         #endregion
 

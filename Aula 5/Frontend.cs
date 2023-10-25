@@ -38,8 +38,6 @@ namespace Aula_5
         #region Properties
         #endregion
 
-
-
         #region Overrides
         #endregion
 
@@ -47,18 +45,18 @@ namespace Aula_5
 
         /// <summary>
         /// Mostra todas as pessoas existentes!!!
+        /// Este método não deve estar nesta classe!!!!!
         /// </summary>
-        public static void ShowPersons(Pessoa[] t)
+        public static void ShowPessoas(Pessoa[] t)
         {
             for (int i = 0; i < t.Length; i++)
             {
+                if (t[i] == null) continue;
                 Console.WriteLine("Pessoa: {0}", t[i].Nome);
             }
         }
 
-        //Verificar se uma pessoa existe na turma????
-
-
+        //TPC: Verificar se uma pessoa existe na turma????
 
         #endregion
 

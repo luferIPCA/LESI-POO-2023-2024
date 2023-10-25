@@ -22,8 +22,10 @@ namespace Aula_1___Turno_2
             Aluno a3 = new Aluno(123, "Maria");
 
             Turma t1 = new Turma();
+            t1.InsereAlunoTurma(a1);
 
             Turma t2 = new Turma(300);
+            t2.InsereAlunoTurma(a1);
 
             Turma t3 = new Turma(30);
 

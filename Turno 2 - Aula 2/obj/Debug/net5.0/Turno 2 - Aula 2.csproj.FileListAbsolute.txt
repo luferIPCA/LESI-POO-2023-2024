@@ -1,0 +1,16 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\bin\Debug\net5.0\Turno 2 - Aula 2.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\bin\Debug\net5.0\Turno 2 - Aula 2.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\bin\Debug\net5.0\Turno 2 - Aula 2.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\bin\Debug\net5.0\Turno 2 - Aula 2.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\bin\Debug\net5.0\Turno 2 - Aula 2.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\bin\Debug\net5.0\ref\Turno 2 - Aula 2.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\bin\Debug\net5.0\Turno 2 - Aula 2.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\ref\Turno 2 - Aula 2.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Turno 2 - Aula 2\obj\Debug\net5.0\Turno 2 - Aula 2.genruntimeconfig.cache

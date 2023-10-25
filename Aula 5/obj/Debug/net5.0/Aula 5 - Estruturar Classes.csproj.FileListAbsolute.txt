@@ -1,0 +1,15 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5 - Estruturar Classes.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5 - Estruturar Classes.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5 - Estruturar Classes.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5 - Estruturar Classes.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5 - Estruturar Classes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\ref\Aula 5 - Estruturar Classes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\bin\Debug\net5.0\Aula 5 - Estruturar Classes.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\ref\Aula 5 - Estruturar Classes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.genruntimeconfig.cache

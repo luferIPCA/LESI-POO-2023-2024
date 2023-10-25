@@ -22,9 +22,9 @@ namespace Aula_1___Turno_2
         #region Attributes
         const int MAXTAMTURMA= 50;
 
-        int numAlunos;
+        int numAlunos;      //alunos desta turma
         string turno;
-
+        static int totAlunosNasTurmas; //todos os alunos em todas as turmas!!!
         Aluno[] alunos;
 
         #endregion
@@ -40,7 +40,7 @@ namespace Aula_1___Turno_2
         {
             alunos = new Aluno[MAXTAMTURMA];
             InitializeArray(alunos);
-            numAlunos = 0;
+            numAlunos = 0;            
         }
 
         public Turma(int maxAlunos)
@@ -75,6 +75,7 @@ namespace Aula_1___Turno_2
             //Validações => return false;
             alunos[numAlunos] = new Aluno(nome, num);
             numAlunos++;
+            totAlunosNasTurmas++;
             return true;
         }
 
@@ -83,6 +84,7 @@ namespace Aula_1___Turno_2
             //Validações => return false;
             alunos[numAlunos] = a;
             numAlunos++;
+            totAlunosNasTurmas++;
             return true;
         }
 
