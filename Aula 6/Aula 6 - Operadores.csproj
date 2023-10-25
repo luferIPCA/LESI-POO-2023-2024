@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Aula_6</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Pessoa">
+      <HintPath>..\Pessoa\bin\Debug\Pessoa.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
