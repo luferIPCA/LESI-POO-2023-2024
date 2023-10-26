@@ -1,0 +1,21 @@
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\GereTurmasII - Consola.exe
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\GereTurmasII - Consola.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\GereTurmasII - Consola.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\GereTurmasII - Consola.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\GereTurmasII - Consola.dll
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\ref\GereTurmasII - Consola.dll
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\GereTurmasII - Consola.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\AlunoDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\AlunoDLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\bin\Debug\net5.0\Turmas - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.dll
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\ref\GereTurmasII - Consola.dll
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\GereTurmasII\obj\Debug\net5.0\GereTurmasII - Consola.genruntimeconfig.cache

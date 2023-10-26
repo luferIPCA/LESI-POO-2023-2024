@@ -1,0 +1,26 @@
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\bin\Debug\AppWIndowwTurma.exe.config
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\bin\Debug\AppWIndowwTurma.exe
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\bin\Debug\AppWIndowwTurma.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.Form1.resources
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.Properties.Resources.resources
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.GenerateResource.cache
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.exe
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\bin\Debug\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\bin\Debug\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\bin\Debug\AppWIndowwTurma.exe.config
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\bin\Debug\AppWIndowwTurma.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\bin\Debug\AppWIndowwTurma.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\bin\Debug\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\bin\Debug\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.Form1.resources
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.Properties.Resources.resources
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.GenerateResource.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\AppWIndowwTurma\obj\Debug\AppWIndowwTurma.pdb

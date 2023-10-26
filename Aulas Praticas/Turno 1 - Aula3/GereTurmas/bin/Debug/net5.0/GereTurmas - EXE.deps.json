@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GereTurmas - EXE/1.0.0": {
+        "dependencies": {
+          "InputOutput - DLL": "1.0.0.0",
+          "Pessoas": "1.0.0.0",
+          "Turmas": "1.0.0.0"
+        },
+        "runtime": {
+          "GereTurmas - EXE.dll": {}
+        }
+      },
+      "InputOutput - DLL/1.0.0.0": {
+        "runtime": {
+          "InputOutput - DLL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Pessoas/1.0.0.0": {
+        "runtime": {
+          "Pessoas.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Turmas/1.0.0.0": {
+        "runtime": {
+          "Turmas.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GereTurmas - EXE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InputOutput - DLL/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pessoas/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Turmas/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

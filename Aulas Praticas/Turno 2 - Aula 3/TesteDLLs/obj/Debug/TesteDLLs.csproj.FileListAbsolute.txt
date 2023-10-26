@@ -1,0 +1,6 @@
+D:\Temp\POO-LESI\AulasPOOLESI\TesteDLLs\bin\Debug\TesteDLLs.dll
+D:\Temp\POO-LESI\AulasPOOLESI\TesteDLLs\bin\Debug\TesteDLLs.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\TesteDLLs\obj\Debug\TesteDLLs.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\TesteDLLs\obj\Debug\TesteDLLs.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\TesteDLLs\obj\Debug\TesteDLLs.dll
+D:\Temp\POO-LESI\AulasPOOLESI\TesteDLLs\obj\Debug\TesteDLLs.pdb

@@ -1,0 +1,12 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\bin\Debug\net5.0\Aluno - DLL.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\bin\Debug\net5.0\Aluno - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\bin\Debug\net5.0\ref\Aluno - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\bin\Debug\net5.0\Aluno - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\Aluno - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\Aluno - DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\Aluno - DLL.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\Aluno - DLL.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\Aluno - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\Aluno - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\ref\Aluno - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\AlunoDLL\obj\Debug\net5.0\Aluno - DLL.pdb

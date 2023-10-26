@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="InputOutput - DLL">
+      <HintPath>..\InputOutput\bin\Debug\net5.0\InputOutput - DLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Pessoas">
+      <HintPath>..\Pessoas\bin\Debug\Pessoas.dll</HintPath>
+    </Reference>
+    <Reference Include="Turmas">
+      <HintPath>..\Turmas\bin\Debug\Turmas.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

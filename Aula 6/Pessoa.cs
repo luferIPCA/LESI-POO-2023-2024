@@ -8,7 +8,7 @@
 
 using System;
 
-namespace Aula__6
+namespace Aula_6
 {
     /// <summary>
     /// Classe Pessoa....

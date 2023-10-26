@@ -1,0 +1,30 @@
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\bin\Debug\net5.0\InputOutput - DLL.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\bin\Debug\net5.0\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\bin\Debug\net5.0\ref\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\bin\Debug\net5.0\InputOutput - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\bin\Debug\net5.0\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\bin\Debug\net5.0\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\ref\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\InputOutput\obj\Debug\net5.0\InputOutput - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\bin\Debug\net5.0\InputOutput - DLL.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\bin\Debug\net5.0\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\bin\Debug\net5.0\ref\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\bin\Debug\net5.0\InputOutput - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\bin\Debug\net5.0\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\bin\Debug\net5.0\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\ref\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\InputOutput\obj\Debug\net5.0\InputOutput - DLL.pdb

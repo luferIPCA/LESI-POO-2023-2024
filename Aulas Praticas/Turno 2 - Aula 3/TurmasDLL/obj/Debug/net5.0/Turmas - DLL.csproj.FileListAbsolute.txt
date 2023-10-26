@@ -1,0 +1,30 @@
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\bin\Debug\net5.0\Turmas - DLL.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\bin\Debug\net5.0\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\bin\Debug\net5.0\ref\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\bin\Debug\net5.0\Turmas - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\bin\Debug\net5.0\AlunoDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\bin\Debug\net5.0\AlunoDLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\ref\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\bin\Debug\net5.0\Turmas - DLL.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\bin\Debug\net5.0\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\bin\Debug\net5.0\ref\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\bin\Debug\net5.0\Turmas - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\ref\Turmas - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\obj\Debug\net5.0\Turmas - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\bin\Debug\net5.0\Aluno - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TurmasDLL\bin\Debug\net5.0\Aluno - DLL.pdb

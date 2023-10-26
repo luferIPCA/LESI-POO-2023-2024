@@ -13,6 +13,7 @@ namespace Aula_6
     {
         static void Main(string[] args)
         {
+
             DateTime d = DateTime.Now;
             
             int x = 7;

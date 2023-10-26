@@ -1,0 +1,12 @@
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\bin\Debug\net5.0\AlunoDLL.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\bin\Debug\net5.0\ref\AlunoDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\bin\Debug\net5.0\AlunoDLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\ref\AlunoDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\AlunoDLL\obj\Debug\net5.0\AlunoDLL.csproj.CopyComplete

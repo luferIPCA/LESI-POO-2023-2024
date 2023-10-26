@@ -1,0 +1,23 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\GereTurmas - EXE.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\GereTurmas - EXE.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\GereTurmas - EXE.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\GereTurmas - EXE.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\GereTurmas - EXE.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\ref\GereTurmas - EXE.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\GereTurmas - EXE.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\InputOutput - DLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\Turmas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\InputOutput - DLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\bin\Debug\net5.0\Turmas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\ref\GereTurmas - EXE.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\GereTurmas\obj\Debug\net5.0\GereTurmas - EXE.genruntimeconfig.cache

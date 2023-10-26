@@ -1,0 +1,9 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\obj\Debug\Turmas - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\obj\Debug\Turmas - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\bin\Debug\Turmas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\bin\Debug\Turmas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\bin\Debug\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\bin\Debug\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\obj\Debug\Turmas - DLL.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\obj\Debug\Turmas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Turmas\obj\Debug\Turmas.pdb

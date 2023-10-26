@@ -6,10 +6,4 @@
     <RootNamespace>Aula_6</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="Pessoa">
-      <HintPath>..\Pessoa\bin\Debug\Pessoa.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

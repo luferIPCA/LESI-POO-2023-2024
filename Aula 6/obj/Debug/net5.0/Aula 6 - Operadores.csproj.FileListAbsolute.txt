@@ -1,0 +1,16 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\bin\Debug\net5.0\Aula 6 - Operadores.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\bin\Debug\net5.0\Aula 6 - Operadores.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\bin\Debug\net5.0\Aula 6 - Operadores.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\bin\Debug\net5.0\Aula 6 - Operadores.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\bin\Debug\net5.0\Aula 6 - Operadores.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\bin\Debug\net5.0\ref\Aula 6 - Operadores.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\bin\Debug\net5.0\Aula 6 - Operadores.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\ref\Aula 6 - Operadores.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 6\obj\Debug\net5.0\Aula 6 - Operadores.genruntimeconfig.cache

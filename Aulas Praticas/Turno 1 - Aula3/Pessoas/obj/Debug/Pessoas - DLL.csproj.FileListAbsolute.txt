@@ -1,0 +1,12 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoas\bin\Debug\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoas\bin\Debug\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoas\obj\Debug\Pessoas - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoas\obj\Debug\Pessoas - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoas\obj\Debug\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Pessoas\obj\Debug\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\Pessoas\bin\Debug\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\Pessoas\bin\Debug\Pessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\Pessoas\obj\Debug\Pessoas - DLL.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\Pessoas\obj\Debug\Pessoas - DLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\Pessoas\obj\Debug\Pessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula3\Pessoas\obj\Debug\Pessoas.pdb

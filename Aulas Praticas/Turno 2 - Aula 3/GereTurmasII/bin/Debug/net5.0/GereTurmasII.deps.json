@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GereTurmasII/1.0.0": {
+        "dependencies": {
+          "AlunoDLL": "1.0.0.0",
+          "TurmasDLL": "1.0.0.0"
+        },
+        "runtime": {
+          "GereTurmasII.dll": {}
+        }
+      },
+      "AlunoDLL/1.0.0.0": {
+        "runtime": {
+          "AlunoDLL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TurmasDLL/1.0.0.0": {
+        "runtime": {
+          "TurmasDLL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GereTurmasII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AlunoDLL/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TurmasDLL/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
