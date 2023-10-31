@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aula_9___POO.Transporte">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAQAAAAQAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Transporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_9___POO.Carro">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_9___POO.Aviao">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAADAAAAAAAAAA=</HashCode>
+      <FileName>Aviao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_9___POO.QuaseBTT">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAIAAAAA=</HashCode>
+      <FileName>QuaseBTT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_9___POO.BTT">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>QuaseBTT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_9___POO.Trotinete">
+    <Position X="9" Y="4" Width="1.5" />
+    <InheritanceLine Type="Aula_9___POO.QuaseBTT" FixedToPoint="true">
+      <Path>
+        <Point X="11.25" Y="2.636" />
+        <Point X="11.25" Y="4.111" />
+        <Point X="10.5" Y="4.111" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>QuaseBTT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ASAS">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Aviao.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

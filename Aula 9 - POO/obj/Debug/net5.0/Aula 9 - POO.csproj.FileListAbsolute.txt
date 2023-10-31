@@ -1,0 +1,15 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\bin\Debug\net5.0\Aula 9 - POO.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\bin\Debug\net5.0\Aula 9 - POO.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\bin\Debug\net5.0\Aula 9 - POO.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\bin\Debug\net5.0\Aula 9 - POO.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\bin\Debug\net5.0\Aula 9 - POO.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\bin\Debug\net5.0\ref\Aula 9 - POO.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\bin\Debug\net5.0\Aula 9 - POO.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\ref\Aula 9 - POO.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.genruntimeconfig.cache

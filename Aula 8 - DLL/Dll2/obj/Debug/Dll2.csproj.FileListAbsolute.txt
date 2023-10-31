@@ -1,0 +1,5 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 8 - DLL\Dll2\bin\Debug\Dll2.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 8 - DLL\Dll2\bin\Debug\Dll2.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 8 - DLL\Dll2\obj\Debug\Dll2.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 8 - DLL\Dll2\obj\Debug\Dll2.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 8 - DLL\Dll2\obj\Debug\Dll2.pdb

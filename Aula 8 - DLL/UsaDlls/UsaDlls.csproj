@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Dll1">
+      <HintPath>..\Dll1\bin\Debug\Dll1.dll</HintPath>
+    </Reference>
+    <Reference Include="Dll2">
+      <HintPath>..\Dll2\bin\Debug\Dll2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
