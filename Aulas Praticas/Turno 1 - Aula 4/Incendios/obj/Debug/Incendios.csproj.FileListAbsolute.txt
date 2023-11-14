@@ -1,0 +1,6 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 4\Incendios\bin\Debug\Incendios.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 4\Incendios\bin\Debug\Incendios.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 4\Incendios\obj\Debug\Incendios.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 4\Incendios\obj\Debug\Incendios.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 4\Incendios\obj\Debug\Incendios.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 4\Incendios\obj\Debug\Incendios.pdb
