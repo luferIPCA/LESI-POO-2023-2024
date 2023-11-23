@@ -1,0 +1,14 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\bin\Debug\netcoreapp3.1\Aula 10 - Collections.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\bin\Debug\netcoreapp3.1\Aula 10 - Collections.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\bin\Debug\netcoreapp3.1\Aula 10 - Collections.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\bin\Debug\netcoreapp3.1\Aula 10 - Collections.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\bin\Debug\netcoreapp3.1\Aula 10 - Collections.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\bin\Debug\netcoreapp3.1\Aula 10 - Collections.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 10 - Collections\obj\Debug\netcoreapp3.1\Aula 10 - Collections.genruntimeconfig.cache

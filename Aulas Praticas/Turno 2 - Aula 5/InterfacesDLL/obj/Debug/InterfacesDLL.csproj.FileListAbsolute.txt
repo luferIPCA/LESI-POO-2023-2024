@@ -1,0 +1,5 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\InterfacesDLL\bin\Debug\InterfacesDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\InterfacesDLL\bin\Debug\InterfacesDLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\InterfacesDLL\obj\Debug\InterfacesDLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\InterfacesDLL\obj\Debug\InterfacesDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\InterfacesDLL\obj\Debug\InterfacesDLL.pdb
