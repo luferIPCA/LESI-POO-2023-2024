@@ -1,0 +1,14 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\bin\Debug\netcoreapp3.1\GereZoo.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\bin\Debug\netcoreapp3.1\GereZoo.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\bin\Debug\netcoreapp3.1\GereZoo.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\bin\Debug\netcoreapp3.1\GereZoo.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\bin\Debug\netcoreapp3.1\GereZoo.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\bin\Debug\netcoreapp3.1\GereZoo.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 -  Aula 6\GereZoo\obj\Debug\netcoreapp3.1\GereZoo.genruntimeconfig.cache

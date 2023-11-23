@@ -1,0 +1,13 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\bin\Debug\netcoreapp3.1\LojaOnLine.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\bin\Debug\netcoreapp3.1\LojaOnLine.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\bin\Debug\netcoreapp3.1\LojaOnLine.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\bin\Debug\netcoreapp3.1\LojaOnLine.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\bin\Debug\netcoreapp3.1\LojaOnLine.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\bin\Debug\netcoreapp3.1\LojaOnLine.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.genruntimeconfig.cache
