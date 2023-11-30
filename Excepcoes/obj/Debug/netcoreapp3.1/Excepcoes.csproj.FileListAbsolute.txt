@@ -1,0 +1,14 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\bin\Debug\netcoreapp3.1\Excepcoes.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\bin\Debug\netcoreapp3.1\Excepcoes.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\bin\Debug\netcoreapp3.1\Excepcoes.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\bin\Debug\netcoreapp3.1\Excepcoes.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\bin\Debug\netcoreapp3.1\Excepcoes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\bin\Debug\netcoreapp3.1\Excepcoes.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Excepcoes\obj\Debug\netcoreapp3.1\Excepcoes.genruntimeconfig.cache

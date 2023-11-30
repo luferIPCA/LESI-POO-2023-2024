@@ -1,0 +1,11 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\bin\Debug\Dados.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\bin\Debug\ObjetosNegocio.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\bin\Debug\Dados.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\bin\Debug\ObjetosNegocio.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 7\RegrasNegocio\obj\Debug\RegrasNegocio.pdb

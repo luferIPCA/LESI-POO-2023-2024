@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ObjetosNegocio">
+      <HintPath>..\ObjetosNegocio\bin\Debug\ObjetosNegocio.dll</HintPath>
+    </Reference>
+    <Reference Include="RegrasNegocio">
+      <HintPath>..\RegrasNegocio\bin\Debug\RegrasNegocio.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

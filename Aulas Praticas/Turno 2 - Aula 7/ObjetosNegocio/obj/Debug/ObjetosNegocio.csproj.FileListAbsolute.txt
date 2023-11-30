@@ -1,0 +1,6 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\ObjetosNegocio\bin\Debug\ObjetosNegocio.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\ObjetosNegocio\bin\Debug\ObjetosNegocio.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\ObjetosNegocio\obj\Debug\ObjetosNegocio.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\ObjetosNegocio\obj\Debug\ObjetosNegocio.pdb

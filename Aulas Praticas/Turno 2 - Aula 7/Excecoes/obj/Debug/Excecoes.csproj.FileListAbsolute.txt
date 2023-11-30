@@ -1,0 +1,5 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\Excecoes\bin\Debug\Excecoes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\Excecoes\bin\Debug\Excecoes.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\Excecoes\obj\Debug\Excecoes.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\Excecoes\obj\Debug\Excecoes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\Excecoes\obj\Debug\Excecoes.pdb
