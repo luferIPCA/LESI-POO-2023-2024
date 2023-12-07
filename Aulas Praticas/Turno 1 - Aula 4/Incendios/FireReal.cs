@@ -79,6 +79,21 @@ namespace Incendios
         }
         #endregion
 
+
+        public bool AddIncendio(Incendio i)
+        {
+            foreach (Incendio ic in incendios)
+            {
+                if (ic.Data == i.Data) return false;
+            }
+            if (totIncendios < N)
+            {
+                incendios[totIncendios++] = i;
+                return true;
+            }
+            return false;
+        }
+
         #region Destructor
         /// <summary>
         /// The destructor.

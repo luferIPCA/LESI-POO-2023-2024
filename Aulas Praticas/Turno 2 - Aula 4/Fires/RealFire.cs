@@ -118,17 +118,5 @@ namespace Fires
     }
 
 
-    public class Nova : RealFire
-    {
-        public int ComparaIncendios(Incendio i1, Incendio i2)
-        {
-
-
-            //if (1.CompareTo(2))
-
-            //if (String.Compare("ola","ole"))
-        }
-
-        //Compare
-    }
+    
 }

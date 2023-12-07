@@ -22,7 +22,7 @@ namespace RegrasNegocio
             }
             catch (ProdutosException e)
             {
-                throw new ProdutosException("Falha de Regras de Negocio " + "-" + e.Message)
+                throw new ProdutosException("Falha de Regras de Negocio " + "-" + e.Message);
                 //throw new Exception(e.Message +  " - Falha de Regras de Negocio");
             }
         }

@@ -1,0 +1,7 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 1\bin\Debug\Aula 1 - Turno 2.exe.config
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 1\bin\Debug\Aula 1 - Turno 2.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 1\bin\Debug\Aula 1 - Turno 2.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 1\obj\Debug\Turno 2 - Aula 1.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 1\obj\Debug\Turno 2 - Aula 1.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 1\obj\Debug\Aula 1 - Turno 2.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 1\obj\Debug\Aula 1 - Turno 2.pdb

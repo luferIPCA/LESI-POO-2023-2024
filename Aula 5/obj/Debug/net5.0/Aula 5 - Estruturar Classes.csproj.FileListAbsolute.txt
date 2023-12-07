@@ -13,3 +13,4 @@ D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classe
 D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\ref\Aula 5 - Estruturar Classes.dll
 D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.pdb
 D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.genruntimeconfig.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 5\obj\Debug\net5.0\Aula 5 - Estruturar Classes.csproj.AssemblyReference.cache

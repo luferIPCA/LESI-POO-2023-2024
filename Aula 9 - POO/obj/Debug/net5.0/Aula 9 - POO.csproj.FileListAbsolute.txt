@@ -13,3 +13,4 @@ D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.dll
 D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\ref\Aula 9 - POO.dll
 D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.pdb
 D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.genruntimeconfig.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 9 - POO\obj\Debug\net5.0\Aula 9 - POO.csproj.AssemblyReference.cache

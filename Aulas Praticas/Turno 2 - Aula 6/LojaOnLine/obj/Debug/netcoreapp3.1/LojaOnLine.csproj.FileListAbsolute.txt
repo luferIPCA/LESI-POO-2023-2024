@@ -11,3 +11,4 @@ D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Deb
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.dll
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.pdb
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.genruntimeconfig.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 6\LojaOnLine\obj\Debug\netcoreapp3.1\LojaOnLine.csproj.AssemblyReference.cache

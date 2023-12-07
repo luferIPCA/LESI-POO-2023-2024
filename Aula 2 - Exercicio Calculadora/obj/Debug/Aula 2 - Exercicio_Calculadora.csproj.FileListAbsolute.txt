@@ -1,0 +1,7 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 2 - Exercicio Calculadora\bin\Debug\Calculadora.exe.config
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 2 - Exercicio Calculadora\bin\Debug\Calculadora.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 2 - Exercicio Calculadora\bin\Debug\Calculadora.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 2 - Exercicio Calculadora\obj\Debug\Aula 2 - Exercicio_Calculadora.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 2 - Exercicio Calculadora\obj\Debug\Aula 2 - Exercicio_Calculadora.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 2 - Exercicio Calculadora\obj\Debug\Calculadora.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 2 - Exercicio Calculadora\obj\Debug\Calculadora.pdb

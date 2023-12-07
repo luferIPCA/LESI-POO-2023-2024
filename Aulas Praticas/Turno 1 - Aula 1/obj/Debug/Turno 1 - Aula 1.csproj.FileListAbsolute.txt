@@ -1,0 +1,6 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 1\bin\Debug\Aula 1 Turno1.exe.config
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 1\bin\Debug\Aula 1 Turno1.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 1\bin\Debug\Aula 1 Turno1.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 1\obj\Debug\Turno 1 - Aula 1.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 1\obj\Debug\Aula 1 Turno1.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 1 - Aula 1\obj\Debug\Aula 1 Turno1.pdb

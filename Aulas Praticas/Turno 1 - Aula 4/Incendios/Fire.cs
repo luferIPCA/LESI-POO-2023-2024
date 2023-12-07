@@ -22,6 +22,8 @@ namespace Incendios
         #region Attributes
 
         public Incendio[] incendios;            //ATENÇÃO
+        public const int N = 20;
+        public int totIncendios;
 
         #endregion
 
@@ -34,6 +36,12 @@ namespace Incendios
         /// </summary>
         public Fire()
         {
+            incendios = new Incendio[N];
+            for(int i=0; i<N; i++)
+            {
+                incendios[i] = new Incendio(0, 0, DateTime.Now);
+            }
+            totIncendios = 0;
         }
 
         #endregion

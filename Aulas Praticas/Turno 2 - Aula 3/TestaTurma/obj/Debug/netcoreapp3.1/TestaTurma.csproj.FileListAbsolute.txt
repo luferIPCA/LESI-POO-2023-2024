@@ -1,0 +1,5 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TestaTurma\obj\Debug\netcoreapp3.1\TestaTurma.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TestaTurma\obj\Debug\netcoreapp3.1\TestaTurma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TestaTurma\obj\Debug\netcoreapp3.1\TestaTurma.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TestaTurma\obj\Debug\netcoreapp3.1\TestaTurma.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 3\TestaTurma\obj\Debug\netcoreapp3.1\TestaTurma.csproj.CoreCompileInputs.cache

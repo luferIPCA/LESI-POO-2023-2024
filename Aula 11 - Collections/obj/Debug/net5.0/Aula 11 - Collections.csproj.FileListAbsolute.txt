@@ -1,0 +1,16 @@
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\bin\Debug\net5.0\Aula 11 - Collections.exe
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\bin\Debug\net5.0\Aula 11 - Collections.deps.json
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\bin\Debug\net5.0\Aula 11 - Collections.runtimeconfig.json
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\bin\Debug\net5.0\Aula 11 - Collections.runtimeconfig.dev.json
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\bin\Debug\net5.0\Aula 11 - Collections.dll
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\bin\Debug\net5.0\ref\Aula 11 - Collections.dll
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\bin\Debug\net5.0\Aula 11 - Collections.pdb
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.AssemblyInfo.cs
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.dll
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\ref\Aula 11 - Collections.dll
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.pdb
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.genruntimeconfig.cache
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.csproj.AssemblyReference.cache

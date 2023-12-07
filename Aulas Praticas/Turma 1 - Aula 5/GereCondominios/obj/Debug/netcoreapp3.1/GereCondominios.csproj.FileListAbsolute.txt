@@ -1,0 +1,5 @@
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turma 1 - Aula 5\GereCondominios\obj\Debug\netcoreapp3.1\GereCondominios.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turma 1 - Aula 5\GereCondominios\obj\Debug\netcoreapp3.1\GereCondominios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turma 1 - Aula 5\GereCondominios\obj\Debug\netcoreapp3.1\GereCondominios.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turma 1 - Aula 5\GereCondominios\obj\Debug\netcoreapp3.1\GereCondominios.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turma 1 - Aula 5\GereCondominios\obj\Debug\netcoreapp3.1\GereCondominios.csproj.CoreCompileInputs.cache

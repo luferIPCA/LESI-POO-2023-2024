@@ -8,11 +8,20 @@
     ".NETCoreApp,Version=v3.1": {
       "GereLoja/1.0.0": {
         "dependencies": {
+          "Excecoes": "1.0.0.0",
           "ObjetosNegocio": "1.0.0.0",
           "RegrasNegocio": "1.0.0.0"
         },
         "runtime": {
           "GereLoja.dll": {}
+        }
+      },
+      "Excecoes/1.0.0.0": {
+        "runtime": {
+          "Excecoes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ObjetosNegocio/1.0.0.0": {
@@ -44,6 +53,11 @@
   "libraries": {
     "GereLoja/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excecoes/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

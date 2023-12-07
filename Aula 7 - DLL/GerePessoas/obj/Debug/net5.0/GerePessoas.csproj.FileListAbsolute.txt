@@ -17,3 +17,22 @@ D:\Temp\POO-LESI\AulasPOOLESI\GerePessoas\obj\Debug\net5.0\GerePessoas.dll
 D:\Temp\POO-LESI\AulasPOOLESI\GerePessoas\obj\Debug\net5.0\ref\GerePessoas.dll
 D:\Temp\POO-LESI\AulasPOOLESI\GerePessoas\obj\Debug\net5.0\GerePessoas.pdb
 D:\Temp\POO-LESI\AulasPOOLESI\GerePessoas\obj\Debug\net5.0\GerePessoas.genruntimeconfig.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\GerePessoas.exe
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\GerePessoas.deps.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\GerePessoas.runtimeconfig.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\GerePessoas.runtimeconfig.dev.json
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\GerePessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\ref\GerePessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\GerePessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\Pessoa.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\bin\Debug\net5.0\Pessoa.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.csproj.AssemblyReference.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.AssemblyInfoInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.AssemblyInfo.cs
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.csproj.CoreCompileInputs.cache
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.csproj.CopyComplete
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\ref\GerePessoas.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aula 7 - DLL\GerePessoas\obj\Debug\net5.0\GerePessoas.genruntimeconfig.cache

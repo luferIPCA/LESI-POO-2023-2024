@@ -4,3 +4,6 @@ D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\Produtos\obj\Debug
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\Produtos\obj\Debug\Produtos.csproj.CoreCompileInputs.cache
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\Produtos\obj\Debug\Produtos.dll
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\Produtos\obj\Debug\Produtos.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\Produtos\bin\Debug\InterfacesDLL.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\Produtos\bin\Debug\InterfacesDLL.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 5\Produtos\obj\Debug\Produtos.csproj.CopyComplete

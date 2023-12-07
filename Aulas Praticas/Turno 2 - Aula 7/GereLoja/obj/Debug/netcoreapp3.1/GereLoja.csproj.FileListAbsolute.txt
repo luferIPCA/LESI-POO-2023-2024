@@ -19,3 +19,5 @@ D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\GereLoja\bin\Debug
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\GereLoja\bin\Debug\netcoreapp3.1\Dados.dll
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\GereLoja\bin\Debug\netcoreapp3.1\RegrasNegocio.pdb
 D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\GereLoja\bin\Debug\netcoreapp3.1\Dados.pdb
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\GereLoja\bin\Debug\netcoreapp3.1\Excecoes.dll
+D:\Temp\POO-LESI\AulasPOOLESI\Aulas Praticas\Turno 2 - Aula 7\GereLoja\bin\Debug\netcoreapp3.1\Excecoes.pdb
