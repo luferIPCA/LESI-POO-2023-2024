@@ -1,0 +1,16 @@
+D:\Temp\POO\Aulas\Aula 12 - Generics II\bin\Debug\net5.0\Aula 12 - Generics II.exe
+D:\Temp\POO\Aulas\Aula 12 - Generics II\bin\Debug\net5.0\Aula 12 - Generics II.deps.json
+D:\Temp\POO\Aulas\Aula 12 - Generics II\bin\Debug\net5.0\Aula 12 - Generics II.runtimeconfig.json
+D:\Temp\POO\Aulas\Aula 12 - Generics II\bin\Debug\net5.0\Aula 12 - Generics II.runtimeconfig.dev.json
+D:\Temp\POO\Aulas\Aula 12 - Generics II\bin\Debug\net5.0\Aula 12 - Generics II.dll
+D:\Temp\POO\Aulas\Aula 12 - Generics II\bin\Debug\net5.0\ref\Aula 12 - Generics II.dll
+D:\Temp\POO\Aulas\Aula 12 - Generics II\bin\Debug\net5.0\Aula 12 - Generics II.pdb
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.AssemblyInfoInputs.cache
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.AssemblyInfo.cs
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.dll
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\ref\Aula 12 - Generics II.dll
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.pdb
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.genruntimeconfig.cache
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.csproj.AssemblyReference.cache
