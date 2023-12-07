@@ -1,0 +1,6 @@
+D:\Temp\POO\Aulas\Aula 10 - Exceptions I\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe.config
+D:\Temp\POO\Aulas\Aula 10 - Exceptions I\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+D:\Temp\POO\Aulas\Aula 10 - Exceptions I\bin\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+D:\Temp\POO\Aulas\Aula 10 - Exceptions I\obj\Debug\Aula 10 - Exceptions I.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 10 - Exceptions I\obj\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+D:\Temp\POO\Aulas\Aula 10 - Exceptions I\obj\Debug\2016-03-18 - Aula 4 - Exceptions.pdb

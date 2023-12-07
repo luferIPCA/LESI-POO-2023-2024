@@ -1,0 +1,12 @@
+H:\2015-2016\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe.config
+H:\2015-2016\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+H:\2015-2016\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+H:\2015-2016\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+H:\2015-2016\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+H:\2015-2016\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.csprojResolveAssemblyReference.cache
+C:\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe.config
+C:\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+C:\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+C:\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+C:\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+C:\Temp\LP2\CodigoAulas\2016-03-18 - Aula 4 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.csprojResolveAssemblyReference.cache

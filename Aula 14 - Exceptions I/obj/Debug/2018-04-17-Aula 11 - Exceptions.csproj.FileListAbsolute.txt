@@ -1,0 +1,14 @@
+E:\Temp\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2018-04-17-Aula 11 - Exceptions.csprojResolveAssemblyReference.cache
+E:\Temp\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2018-04-17-Aula 11 - Exceptions.csproj.CoreCompileInputs.cache
+E:\Temp\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+E:\Temp\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+E:\Temp\LP2\2018-04-17-Aula 11 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe.config
+E:\Temp\LP2\2018-04-17-Aula 11 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+E:\Temp\LP2\2018-04-17-Aula 11 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+D:\IPCA\2017-2018\LP2\2018-04-17-Aula 11 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe.config
+D:\IPCA\2017-2018\LP2\2018-04-17-Aula 11 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+D:\IPCA\2017-2018\LP2\2018-04-17-Aula 11 - Exceptions\bin\Debug\2016-03-18 - Aula 4 - Exceptions.pdb
+D:\IPCA\2017-2018\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2018-04-17-Aula 11 - Exceptions.csprojAssemblyReference.cache
+D:\IPCA\2017-2018\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2018-04-17-Aula 11 - Exceptions.csproj.CoreCompileInputs.cache
+D:\IPCA\2017-2018\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.exe
+D:\IPCA\2017-2018\LP2\2018-04-17-Aula 11 - Exceptions\obj\Debug\2016-03-18 - Aula 4 - Exceptions.pdb

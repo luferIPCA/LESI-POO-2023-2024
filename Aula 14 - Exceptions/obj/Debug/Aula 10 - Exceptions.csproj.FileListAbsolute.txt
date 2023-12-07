@@ -1,0 +1,7 @@
+D:\Temp\POO\Aulas\Aula 10 - Exceptions\bin\Debug\Aula 9 - Exceptions.exe.config
+D:\Temp\POO\Aulas\Aula 10 - Exceptions\bin\Debug\Aula 9 - Exceptions.exe
+D:\Temp\POO\Aulas\Aula 10 - Exceptions\bin\Debug\Aula 9 - Exceptions.pdb
+D:\Temp\POO\Aulas\Aula 10 - Exceptions\obj\Debug\Aula 10 - Exceptions.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 10 - Exceptions\obj\Debug\Aula 9 - Exceptions.exe
+D:\Temp\POO\Aulas\Aula 10 - Exceptions\obj\Debug\Aula 9 - Exceptions.pdb
+D:\Temp\POO\Aulas\Aula 10 - Exceptions\obj\Debug\Aula 10 - Exceptions.csproj.AssemblyReference.cache
