@@ -1,0 +1,16 @@
+D:\Temp\Aulas\GerePessoas\ObjetosNegocio\bin\Debug\ObjetosNegocio.dll
+D:\Temp\Aulas\GerePessoas\ObjetosNegocio\bin\Debug\ObjetosNegocio.pdb
+D:\Temp\Aulas\GerePessoas\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GerePessoas\ObjetosNegocio\obj\Debug\ObjetosNegocio.dll
+D:\Temp\Aulas\GerePessoas\ObjetosNegocio\obj\Debug\ObjetosNegocio.pdb
+D:\Temp\Aulas\GerePessoas\ObjetosNegocio\obj\Debug\ObjetosNegocio.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\ObjetosNegocio\obj\Debug\ObjetosNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\ObjetosNegocio\bin\Debug\ObjetosNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\ObjetosNegocio\bin\Debug\ObjetosNegocio.pdb

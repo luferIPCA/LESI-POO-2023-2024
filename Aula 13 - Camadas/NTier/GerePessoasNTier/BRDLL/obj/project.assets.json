@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "BODLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BODLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BODLL.dll": {}
+        }
+      },
+      "DadosDLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BODLL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DadosDLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DadosDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BODLL/1.0.0": {
+      "type": "project",
+      "path": "../BODLL/BODLL.csproj",
+      "msbuildProject": "../BODLL/BODLL.csproj"
+    },
+    "DadosDLL/1.0.0": {
+      "type": "project",
+      "path": "../DadosDLL/DadosDLL.csproj",
+      "msbuildProject": "../DadosDLL/DadosDLL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BODLL >= 1.0.0",
+      "DadosDLL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lufer\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Temp\\LP2-EIM\\Aulas\\Aula 13 - Camadas\\NTier\\GerePessoasNTier\\BRDLL\\BRDLL.csproj",
+      "projectName": "BRDLL",
+      "projectPath": "D:\\Temp\\LP2-EIM\\Aulas\\Aula 13 - Camadas\\NTier\\GerePessoasNTier\\BRDLL\\BRDLL.csproj",
+      "packagesPath": "C:\\Users\\lufer\\.nuget\\packages\\",
+      "outputPath": "D:\\Temp\\LP2-EIM\\Aulas\\Aula 13 - Camadas\\NTier\\GerePessoasNTier\\BRDLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lufer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Temp\\LP2-EIM\\Aulas\\Aula 13 - Camadas\\NTier\\GerePessoasNTier\\BODLL\\BODLL.csproj": {
+              "projectPath": "D:\\Temp\\LP2-EIM\\Aulas\\Aula 13 - Camadas\\NTier\\GerePessoasNTier\\BODLL\\BODLL.csproj"
+            },
+            "D:\\Temp\\LP2-EIM\\Aulas\\Aula 13 - Camadas\\NTier\\GerePessoasNTier\\DadosDLL\\DadosDLL.csproj": {
+              "projectPath": "D:\\Temp\\LP2-EIM\\Aulas\\Aula 13 - Camadas\\NTier\\GerePessoasNTier\\DadosDLL\\DadosDLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

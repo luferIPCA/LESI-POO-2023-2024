@@ -1,0 +1,11 @@
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\BODLL.deps.json
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\ref\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\BODLL.pdb
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.AssemblyInfoInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.AssemblyInfo.cs
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\ref\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.pdb

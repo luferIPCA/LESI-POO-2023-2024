@@ -1,0 +1,26 @@
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\Dados.dll
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\ObjetosNegocio.dll
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\Dados.pdb
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\ObjetosNegocio.pdb
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\Excepcoes.dll
+D:\Temp\Aulas\GerePessoas\RegrasNegocio\bin\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\Dados.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\Excepcoes.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\ObjetosNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\Dados.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\bin\Debug\ObjetosNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\Temp\Aulas\GerePessoas\Excepcoes\bin\Debug\Excepcoes.dll
+D:\Temp\Aulas\GerePessoas\Excepcoes\bin\Debug\Excepcoes.pdb
+D:\Temp\Aulas\GerePessoas\Excepcoes\obj\Debug\Excepcoes.csprojAssemblyReference.cache
+D:\Temp\Aulas\GerePessoas\Excepcoes\obj\Debug\Excepcoes.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GerePessoas\Excepcoes\obj\Debug\Excepcoes.dll
+D:\Temp\Aulas\GerePessoas\Excepcoes\obj\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\Excepcoes\bin\Debug\Excepcoes.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\Excepcoes\bin\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\Excepcoes\obj\Debug\Excepcoes.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\Excepcoes\obj\Debug\Excepcoes.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\Excepcoes\obj\Debug\Excepcoes.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\Excepcoes\obj\Debug\Excepcoes.pdb

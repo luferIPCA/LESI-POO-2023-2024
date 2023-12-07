@@ -1,0 +1,14 @@
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\GereCarros.exe.config
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\GereCarros.exe
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\GereCarros.pdb
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\CarroBL.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\CarrosBO.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\CarroDB.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\CarroBL.pdb
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\CarrosBO.pdb
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\bin\Debug\CarroDB.pdb
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\obj\Debug\GereCarros.csprojAssemblyReference.cache
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\obj\Debug\GereCarros.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\obj\Debug\GereCarros.csproj.CopyComplete
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\obj\Debug\GereCarros.exe
+D:\Temp\LP2-ESI\Aulas\GereCarros\GereCarros\obj\Debug\GereCarros.pdb

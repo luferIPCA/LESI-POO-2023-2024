@@ -1,0 +1,6 @@
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarrosBO\bin\Debug\CarrosBO.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarrosBO\bin\Debug\CarrosBO.pdb
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarrosBO\obj\Debug\CarrosBO.csprojAssemblyReference.cache
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarrosBO\obj\Debug\CarrosBO.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarrosBO\obj\Debug\CarrosBO.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarrosBO\obj\Debug\CarrosBO.pdb

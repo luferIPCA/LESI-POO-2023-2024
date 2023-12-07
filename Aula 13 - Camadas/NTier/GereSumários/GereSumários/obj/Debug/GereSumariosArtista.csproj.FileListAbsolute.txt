@@ -1,0 +1,79 @@
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\Sumarios.mdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\ResolveAssemblyReference.cache
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.Form1.resources
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.GenerateResource.Cache
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\bin\Debug\Sumarios.mdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\obj\Debug\GereSumários.Form1.resources
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumários\GereSumários\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\bin\Debug\Sumarios.mdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\obj\Debug\GereSumários.Form1.resources
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumários\GereSumários\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\IPCA\2014-2015\ISI\Acetatos\NTier\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+D:\work\IPCA\2014-2015\ISI\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+D:\work\IPCA\2014-2015\ISI\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\bin\Debug\Sumarios.mdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.Form1.resources
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\bin\Debug\Sumarios.mdb
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.Form1.resources
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+C:\Users\Admin\Desktop\LP2\Slides\NTier\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.Sumarios.resources
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.GenerateResource.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+C:\Temp\LP2\Aulas\Outros\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csprojAssemblyReference.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.Sumarios.resources
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.GenerateResource.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\obj\Debug\GereSumariosArtista.csproj.CoreCompileInputs.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereSumários\GereSumários\obj\Debug\GereSumários.pdb

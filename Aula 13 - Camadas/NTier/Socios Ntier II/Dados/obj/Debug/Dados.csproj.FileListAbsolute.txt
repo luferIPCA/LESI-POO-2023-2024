@@ -1,0 +1,22 @@
+D:\Temp\Aulas\GerePessoas\Dados\bin\Debug\Dados.dll
+D:\Temp\Aulas\GerePessoas\Dados\bin\Debug\Dados.pdb
+D:\Temp\Aulas\GerePessoas\Dados\bin\Debug\ObjetosNegocio.dll
+D:\Temp\Aulas\GerePessoas\Dados\bin\Debug\ObjetosNegocio.pdb
+D:\Temp\Aulas\GerePessoas\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+D:\Temp\Aulas\GerePessoas\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GerePessoas\Dados\obj\Debug\Dados.csproj.CopyComplete
+D:\Temp\Aulas\GerePessoas\Dados\obj\Debug\Dados.dll
+D:\Temp\Aulas\GerePessoas\Dados\obj\Debug\Dados.pdb
+D:\Temp\Aulas\GerePessoas\Dados\bin\Debug\Excepcoes.dll
+D:\Temp\Aulas\GerePessoas\Dados\bin\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\obj\Debug\Dados.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\obj\Debug\Dados.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\bin\Debug\Dados.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\bin\Debug\Dados.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\bin\Debug\Excepcoes.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\bin\Debug\ObjetosNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\bin\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\bin\Debug\ObjetosNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\Dados\obj\Debug\Dados.csproj.CopyComplete

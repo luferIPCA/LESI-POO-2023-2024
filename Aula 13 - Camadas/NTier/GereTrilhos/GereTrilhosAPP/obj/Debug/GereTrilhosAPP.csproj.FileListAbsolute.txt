@@ -1,0 +1,107 @@
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.exe
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.pdb
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Form1.resources
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Properties.Resources.resources
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.GenerateResource.Cache
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\TrilhosBLL.dll
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\TrilhosBO.dll
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\TrilhosDAL.dll
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\TrilhosBLL.pdb
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\TrilhosDAL.pdb
+C:\Projects\Aulas\TrilhosBO\GereTrilhosAPP\bin\Debug\TrilhosBO.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.exe
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Form1.resources
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Properties.Resources.resources
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.GenerateResource.Cache
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.exe
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Form1.resources
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Properties.Resources.resources
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.GenerateResource.Cache
+D:\Work\IPCA\2010-2011\Aulas\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+D:\Work\IPCA\2010-2011\Aulas\ISI\Aulas_Suplementares\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.exe
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Form1.resources
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Properties.Resources.resources
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\GereTrilhosAPP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.exe
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Form1.resources
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Properties.Resources.resources
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.GenerateResource.Cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.exe
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Form1.resources
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Properties.Resources.resources
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.GenerateResource.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.CopyComplete
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.exe
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\GereTrilhosAPP.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBLL.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosBO.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\bin\Debug\TrilhosDAL.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csprojAssemblyReference.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Form1.resources
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.Properties.Resources.resources
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.GenerateResource.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.CoreCompileInputs.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.csproj.CopyComplete
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.exe
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\GereTrilhosAPP\obj\Debug\GereTrilhosAPP.pdb

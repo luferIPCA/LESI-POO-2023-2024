@@ -1,0 +1,15 @@
+C:\Temp\LP2\GaragemDLL\bin\Debug\net5.0\GaragemDLL.deps.json
+C:\Temp\LP2\GaragemDLL\bin\Debug\net5.0\GaragemDLL.dll
+C:\Temp\LP2\GaragemDLL\bin\Debug\net5.0\ref\GaragemDLL.dll
+C:\Temp\LP2\GaragemDLL\bin\Debug\net5.0\GaragemDLL.pdb
+C:\Temp\LP2\GaragemDLL\bin\Debug\net5.0\Carro.dll
+C:\Temp\LP2\GaragemDLL\bin\Debug\net5.0\Carro.pdb
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.csprojAssemblyReference.cache
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.AssemblyInfoInputs.cache
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.AssemblyInfo.cs
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.csproj.CopyComplete
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.dll
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\ref\GaragemDLL.dll
+C:\Temp\LP2\GaragemDLL\obj\Debug\net5.0\GaragemDLL.pdb

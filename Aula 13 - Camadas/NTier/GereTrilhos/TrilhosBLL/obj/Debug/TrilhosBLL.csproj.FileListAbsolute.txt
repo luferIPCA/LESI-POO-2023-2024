@@ -1,0 +1,67 @@
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\bin\Debug\TrilhosBLL.dll
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\bin\Debug\TrilhosBLL.pdb
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\bin\Debug\TrilhosBO.dll
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\bin\Debug\TrilhosBO.pdb
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\obj\Debug\TrilhosBLL.dll
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\obj\Debug\TrilhosBLL.pdb
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\bin\Debug\TrilhosDAL.dll
+C:\Projects\Aulas\TrilhosBO\TrilhosBLL\bin\Debug\TrilhosDAL.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.csproj.CopyComplete
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBLL.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosBO.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\bin\Debug\TrilhosDAL.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.csprojAssemblyReference.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.csproj.CoreCompileInputs.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.csproj.CopyComplete
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosBLL\obj\Debug\TrilhosBLL.pdb

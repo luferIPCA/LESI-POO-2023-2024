@@ -1,0 +1,27 @@
+D:\Temp\Aulas\GereClubes\DadosClubes\bin\Debug\DadosClubes.dll
+D:\Temp\Aulas\GereClubes\DadosClubes\bin\Debug\DadosClubes.pdb
+D:\Temp\Aulas\GereClubes\DadosClubes\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\GereClubes\DadosClubes\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\GereClubes\DadosClubes\obj\Debug\DadosClubes.csprojAssemblyReference.cache
+D:\Temp\Aulas\GereClubes\DadosClubes\obj\Debug\DadosClubes.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GereClubes\DadosClubes\obj\Debug\DadosClubes.csproj.CopyComplete
+D:\Temp\Aulas\GereClubes\DadosClubes\obj\Debug\DadosClubes.dll
+D:\Temp\Aulas\GereClubes\DadosClubes\obj\Debug\DadosClubes.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\bin\Debug\DadosClubes.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\bin\Debug\DadosClubes.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\obj\Debug\DadosClubes.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\obj\Debug\DadosClubes.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\obj\Debug\DadosClubes.csproj.CopyComplete
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\obj\Debug\DadosClubes.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\DadosClubes\obj\Debug\DadosClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\obj\Debug\DadosClubes.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\obj\Debug\DadosClubes.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\obj\Debug\DadosClubes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\obj\Debug\DadosClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\bin\Debug\DadosClubes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\bin\Debug\DadosClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\bin\Debug\ClubeBO.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\bin\Debug\ClubeBO.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\DadosClubes\obj\Debug\DadosClubes.csproj.CopyComplete

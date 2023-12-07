@@ -1,0 +1,48 @@
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\GereClubes.exe.config
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\GereClubes.exe
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\GereClubes.pdb
+D:\Temp\Aulas\GereClubes\GereClubes\obj\Debug\GereClubes.csprojAssemblyReference.cache
+D:\Temp\Aulas\GereClubes\GereClubes\obj\Debug\GereClubes.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GereClubes\GereClubes\obj\Debug\GereClubes.exe
+D:\Temp\Aulas\GereClubes\GereClubes\obj\Debug\GereClubes.pdb
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\ClubesRN.dll
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\Validacoes.dll
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\DadosClubes.dll
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\ClubesRN.pdb
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\Validacoes.pdb
+D:\Temp\Aulas\GereClubes\GereClubes\bin\Debug\DadosClubes.pdb
+D:\Temp\Aulas\GereClubes\GereClubes\obj\Debug\GereClubes.csproj.CopyComplete
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\GereClubes.exe.config
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\GereClubes.exe
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\GereClubes.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\ClubesRN.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\Validacoes.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\DadosClubes.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\ClubesRN.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\Validacoes.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\bin\Debug\DadosClubes.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\obj\Debug\GereClubes.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\obj\Debug\GereClubes.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\obj\Debug\GereClubes.csproj.CopyComplete
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\obj\Debug\GereClubes.exe
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\GereClubes\obj\Debug\GereClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\obj\Debug\GereClubes.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\obj\Debug\GereClubes.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\obj\Debug\GereClubes.exe
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\obj\Debug\GereClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\GereClubes.exe.config
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\GereClubes.exe
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\GereClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\ClubeBO.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\ClubesRN.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\Validacoes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\DadosClubes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\ClubeBO.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\ClubesRN.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\Validacoes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\bin\Debug\DadosClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\GereClubes\obj\Debug\GereClubes.csproj.CopyComplete

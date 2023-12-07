@@ -1,0 +1,32 @@
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\GerePessoas.exe.config
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\GerePessoas.exe
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\GerePessoas.pdb
+D:\Temp\Aulas\GerePessoas\GerePessoas\obj\Debug\GerePessoas.csprojAssemblyReference.cache
+D:\Temp\Aulas\GerePessoas\GerePessoas\obj\Debug\GerePessoas.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GerePessoas\GerePessoas\obj\Debug\GerePessoas.exe
+D:\Temp\Aulas\GerePessoas\GerePessoas\obj\Debug\GerePessoas.pdb
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\ObjetosNegocio.dll
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\ObjetosNegocio.pdb
+D:\Temp\Aulas\GerePessoas\GerePessoas\obj\Debug\GerePessoas.csproj.CopyComplete
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\RegrasNegocio.dll
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\Dados.dll
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\RegrasNegocio.pdb
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\Dados.pdb
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\Excepcoes.dll
+D:\Temp\Aulas\GerePessoas\GerePessoas\bin\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\obj\Debug\GerePessoas.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\obj\Debug\GerePessoas.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\obj\Debug\GerePessoas.exe
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\obj\Debug\GerePessoas.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\GerePessoas.exe.config
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\GerePessoas.exe
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\GerePessoas.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\Excepcoes.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\ObjetosNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\RegrasNegocio.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\Dados.dll
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\Excepcoes.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\ObjetosNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\RegrasNegocio.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\bin\Debug\Dados.pdb
+C:\Temp\LP2\Aulas\Aula19-Nier II\GerePessoas\obj\Debug\GerePessoas.csproj.CopyComplete

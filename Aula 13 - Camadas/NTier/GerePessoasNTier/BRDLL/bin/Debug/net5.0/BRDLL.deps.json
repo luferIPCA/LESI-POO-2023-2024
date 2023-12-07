@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BRDLL/1.0.0": {
+        "dependencies": {
+          "BODLL": "1.0.0",
+          "DadosDLL": "1.0.0"
+        },
+        "runtime": {
+          "BRDLL.dll": {}
+        }
+      },
+      "BODLL/1.0.0": {
+        "runtime": {
+          "BODLL.dll": {}
+        }
+      },
+      "DadosDLL/1.0.0": {
+        "dependencies": {
+          "BODLL": "1.0.0"
+        },
+        "runtime": {
+          "DadosDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BRDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BODLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DadosDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

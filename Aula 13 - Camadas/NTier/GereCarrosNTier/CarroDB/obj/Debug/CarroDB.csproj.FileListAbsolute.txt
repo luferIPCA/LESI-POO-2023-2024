@@ -1,0 +1,9 @@
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\bin\Debug\CarroDB.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\bin\Debug\CarroDB.pdb
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\bin\Debug\CarrosBO.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\bin\Debug\CarrosBO.pdb
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\obj\Debug\CarroDB.csprojAssemblyReference.cache
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\obj\Debug\CarroDB.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\obj\Debug\CarroDB.csproj.CopyComplete
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\obj\Debug\CarroDB.dll
+D:\Temp\LP2-ESI\Aulas\GereCarros\CarroDB\obj\Debug\CarroDB.pdb

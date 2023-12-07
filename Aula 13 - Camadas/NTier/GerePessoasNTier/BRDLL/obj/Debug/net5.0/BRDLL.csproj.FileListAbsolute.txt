@@ -1,0 +1,17 @@
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\BRDLL.deps.json
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\BRDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\ref\BRDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\BRDLL.pdb
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\DadosDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\BODLL.pdb
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\bin\Debug\net5.0\DadosDLL.pdb
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.AssemblyInfoInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.AssemblyInfo.cs
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.csproj.CopyComplete
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\ref\BRDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BRDLL\obj\Debug\net5.0\BRDLL.pdb

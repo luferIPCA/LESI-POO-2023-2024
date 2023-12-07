@@ -1,0 +1,158 @@
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\obj\Debug\ResolveAssemblyReference.cache
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.GenerateResource.Cache
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\Sumarios.mdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\Sumarios.mdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\IPCA\2011-2012\Aulas\Curso Livre Charp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\GereSumariosNTier\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work\IPCA\2014-2015\ISI\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+D:\work\IPCA\2014-2015\ISI\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+D:\work\IPCA\2014-2015\ISI\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Sumarios.mdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.GenerateResource.Cache
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Sumarios.mdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.pdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll.config
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csprojAssemblyReference.cache
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.GenerateResource.cache
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.CoreCompileInputs.cache
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.CopyComplete
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Sumarios.mdb
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe.config
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.exe
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\GereSumariosNTier.pdb
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.dll
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.dll
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.dll
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBL.pdb
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosBO.pdb
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.pdb
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\Seguranca.xml
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.pdb
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\bin\Debug\SumariosDAO.dll.config
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Form1.resources
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.Properties.Resources.resources
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.GenerateResource.cache
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosApp.csproj.CopyComplete
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.exe
+C:\Temp\LP2\Aulas\NTier\GereSumariosNTier\GereSumariosNTier\obj\Debug\GereSumariosNTier.pdb

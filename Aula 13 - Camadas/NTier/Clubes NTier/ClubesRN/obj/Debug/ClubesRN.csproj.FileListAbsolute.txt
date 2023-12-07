@@ -1,0 +1,39 @@
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\ClubesRN.dll
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\ClubesRN.pdb
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\DadosClubes.dll
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\Validacoes.dll
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\DadosClubes.pdb
+D:\Temp\Aulas\GereClubes\ClubesRN\bin\Debug\Validacoes.pdb
+D:\Temp\Aulas\GereClubes\ClubesRN\obj\Debug\ClubesRN.csprojAssemblyReference.cache
+D:\Temp\Aulas\GereClubes\ClubesRN\obj\Debug\ClubesRN.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GereClubes\ClubesRN\obj\Debug\ClubesRN.csproj.CopyComplete
+D:\Temp\Aulas\GereClubes\ClubesRN\obj\Debug\ClubesRN.dll
+D:\Temp\Aulas\GereClubes\ClubesRN\obj\Debug\ClubesRN.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\ClubesRN.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\ClubesRN.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\DadosClubes.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\Validacoes.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\DadosClubes.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\bin\Debug\Validacoes.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\obj\Debug\ClubesRN.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\obj\Debug\ClubesRN.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\obj\Debug\ClubesRN.csproj.CopyComplete
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\obj\Debug\ClubesRN.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubesRN\obj\Debug\ClubesRN.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\obj\Debug\ClubesRN.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\obj\Debug\ClubesRN.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\obj\Debug\ClubesRN.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\obj\Debug\ClubesRN.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\ClubesRN.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\ClubesRN.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\ClubeBO.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\DadosClubes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\Validacoes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\ClubeBO.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\DadosClubes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\bin\Debug\Validacoes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubesRN\obj\Debug\ClubesRN.csproj.CopyComplete

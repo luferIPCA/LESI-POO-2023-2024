@@ -1,0 +1,15 @@
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\bin\Debug\net5.0\DadosDLL.deps.json
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\bin\Debug\net5.0\DadosDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\bin\Debug\net5.0\ref\DadosDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\bin\Debug\net5.0\DadosDLL.pdb
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\bin\Debug\net5.0\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\bin\Debug\net5.0\BODLL.pdb
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.AssemblyInfoInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.AssemblyInfo.cs
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.csproj.CopyComplete
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\ref\DadosDLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\DadosDLL\obj\Debug\net5.0\DadosDLL.pdb

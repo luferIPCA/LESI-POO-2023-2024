@@ -1,0 +1,53 @@
+C:\Projects\Aulas\TrilhosBO\TrilhosDAL\bin\Debug\TrilhosDAL.dll
+C:\Projects\Aulas\TrilhosBO\TrilhosDAL\bin\Debug\TrilhosDAL.pdb
+C:\Projects\Aulas\TrilhosBO\TrilhosDAL\bin\Debug\TrilhosBO.dll
+C:\Projects\Aulas\TrilhosBO\TrilhosDAL\bin\Debug\TrilhosBO.pdb
+C:\Projects\Aulas\TrilhosBO\TrilhosDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Aulas\TrilhosBO\TrilhosDAL\obj\Debug\TrilhosDAL.dll
+C:\Projects\Aulas\TrilhosBO\TrilhosDAL\obj\Debug\TrilhosDAL.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.pdb
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.dll
+C:\Users\lufer\Desktop\Projectos\GereTrilhos\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.pdb
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.dll
+D:\Work\IPCA\2010-2011\ISI\Aulas_Suplementares\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.pdb
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.csproj.CopyComplete
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.dll
+C:\Temp\LP2\Aulas\Outros\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosDAL.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\bin\Debug\TrilhosBO.pdb
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.csprojAssemblyReference.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.csproj.CoreCompileInputs.cache
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.csproj.CopyComplete
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.dll
+D:\IPCA\2018-2019\LP2\Codigo LP2\Aulas\Outros\NTier\NTier II\GereTrilhos\TrilhosDAL\obj\Debug\TrilhosDAL.pdb

@@ -1,0 +1,18 @@
+D:\Temp\Aulas\GereClubes\ClubeBO\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\GereClubes\ClubeBO\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\GereClubes\ClubeBO\obj\Debug\ClubeBO.csprojAssemblyReference.cache
+D:\Temp\Aulas\GereClubes\ClubeBO\obj\Debug\ClubeBO.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GereClubes\ClubeBO\obj\Debug\ClubeBO.dll
+D:\Temp\Aulas\GereClubes\ClubeBO\obj\Debug\ClubeBO.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubeBO\bin\Debug\ClubeBO.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubeBO\bin\Debug\ClubeBO.pdb
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubeBO\obj\Debug\ClubeBO.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubeBO\obj\Debug\ClubeBO.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubeBO\obj\Debug\ClubeBO.dll
+D:\Temp\Aulas\2020-05-14 - Aula 16 - NTier\ClubeBO\obj\Debug\ClubeBO.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubeBO\obj\Debug\ClubeBO.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubeBO\obj\Debug\ClubeBO.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubeBO\obj\Debug\ClubeBO.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubeBO\obj\Debug\ClubeBO.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubeBO\bin\Debug\ClubeBO.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\ClubeBO\bin\Debug\ClubeBO.pdb

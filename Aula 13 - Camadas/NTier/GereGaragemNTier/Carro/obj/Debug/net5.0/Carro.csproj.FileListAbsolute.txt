@@ -1,0 +1,12 @@
+C:\Temp\LP2\Carro\bin\Debug\net5.0\Carro.deps.json
+C:\Temp\LP2\Carro\bin\Debug\net5.0\Carro.dll
+C:\Temp\LP2\Carro\bin\Debug\net5.0\ref\Carro.dll
+C:\Temp\LP2\Carro\bin\Debug\net5.0\Carro.pdb
+C:\Temp\LP2\Carro\obj\Debug\net5.0\Carro.csprojAssemblyReference.cache
+C:\Temp\LP2\Carro\obj\Debug\net5.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\LP2\Carro\obj\Debug\net5.0\Carro.AssemblyInfoInputs.cache
+C:\Temp\LP2\Carro\obj\Debug\net5.0\Carro.AssemblyInfo.cs
+C:\Temp\LP2\Carro\obj\Debug\net5.0\Carro.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Carro\obj\Debug\net5.0\Carro.dll
+C:\Temp\LP2\Carro\obj\Debug\net5.0\ref\Carro.dll
+C:\Temp\LP2\Carro\obj\Debug\net5.0\Carro.pdb

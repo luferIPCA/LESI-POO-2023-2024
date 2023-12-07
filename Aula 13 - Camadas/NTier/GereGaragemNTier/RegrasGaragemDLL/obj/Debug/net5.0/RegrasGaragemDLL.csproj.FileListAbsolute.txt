@@ -1,0 +1,17 @@
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\RegrasGaragemDLL.deps.json
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\RegrasGaragemDLL.dll
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\ref\RegrasGaragemDLL.dll
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\RegrasGaragemDLL.pdb
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\Carro.dll
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\GaragemDLL.dll
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\Carro.pdb
+C:\Temp\LP2\RegrasGaragemDLL\bin\Debug\net5.0\GaragemDLL.pdb
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.csprojAssemblyReference.cache
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.AssemblyInfoInputs.cache
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.AssemblyInfo.cs
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.csproj.CopyComplete
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.dll
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\ref\RegrasGaragemDLL.dll
+C:\Temp\LP2\RegrasGaragemDLL\obj\Debug\net5.0\RegrasGaragemDLL.pdb

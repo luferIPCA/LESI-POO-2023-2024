@@ -1,0 +1,12 @@
+D:\Temp\Aulas\GereClubes\Validacoes\bin\Debug\Validacoes.dll
+D:\Temp\Aulas\GereClubes\Validacoes\bin\Debug\Validacoes.pdb
+D:\Temp\Aulas\GereClubes\Validacoes\obj\Debug\Validacoes.csprojAssemblyReference.cache
+D:\Temp\Aulas\GereClubes\Validacoes\obj\Debug\Validacoes.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\GereClubes\Validacoes\obj\Debug\Validacoes.dll
+D:\Temp\Aulas\GereClubes\Validacoes\obj\Debug\Validacoes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\Validacoes\bin\Debug\Validacoes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\Validacoes\bin\Debug\Validacoes.pdb
+C:\Temp\LP2\Aulas\Aula19-NTier\Validacoes\obj\Debug\Validacoes.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\Validacoes\obj\Debug\Validacoes.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula19-NTier\Validacoes\obj\Debug\Validacoes.dll
+C:\Temp\LP2\Aulas\Aula19-NTier\Validacoes\obj\Debug\Validacoes.pdb

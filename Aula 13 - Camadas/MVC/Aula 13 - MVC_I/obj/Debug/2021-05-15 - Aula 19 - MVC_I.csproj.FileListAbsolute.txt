@@ -1,0 +1,7 @@
+D:\Temp\LP2-EIM\Aulas\Aula 13 - Camadas\MVC\2021-05-15 - Aula 19 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe.config
+D:\Temp\LP2-EIM\Aulas\Aula 13 - Camadas\MVC\2021-05-15 - Aula 19 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\LP2-EIM\Aulas\Aula 13 - Camadas\MVC\2021-05-15 - Aula 19 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.pdb
+D:\Temp\LP2-EIM\Aulas\Aula 13 - Camadas\MVC\2021-05-15 - Aula 19 - MVC_I\obj\Debug\2021-05-15 - Aula 19 - MVC_I.csprojAssemblyReference.cache
+D:\Temp\LP2-EIM\Aulas\Aula 13 - Camadas\MVC\2021-05-15 - Aula 19 - MVC_I\obj\Debug\2021-05-15 - Aula 19 - MVC_I.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-EIM\Aulas\Aula 13 - Camadas\MVC\2021-05-15 - Aula 19 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\LP2-EIM\Aulas\Aula 13 - Camadas\MVC\2021-05-15 - Aula 19 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.pdb

@@ -1,0 +1,10 @@
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\GereSumários.exe.config
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\GereSumários.exe
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\GereSumários.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\ResolveAssemblyReference.cache
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.Form1.resources
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.Properties.Resources.resources
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.csproj.GenerateResource.Cache
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.exe
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\obj\Debug\GereSumários.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumários\GereSumários\bin\Debug\Sumarios.mdb

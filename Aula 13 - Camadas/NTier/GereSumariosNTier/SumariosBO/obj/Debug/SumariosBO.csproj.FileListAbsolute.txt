@@ -1,0 +1,31 @@
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.dll
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.pdb
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\SumariosBO\obj\Debug\ResolveAssemblyReference.cache
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.dll
+C:\work\IPCA\2008-2009\POO\workshop\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\SumariosBO\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.dll
+D:\work\IPCA\2011-2012\Aulas\Curso Livre C#\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.pdb
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\SumariosBO\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.dll
+D:\work\IPCA\2011-2012\Aulas\CursoLivreCharp\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.dll
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.pdb
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\SumariosBO\obj\Debug\ResolveAssemblyReference.cache
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.dll
+D:\work\IPCA\2012-2013\Aulas\P2\Acetatos\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.pdb
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.dll
+C:\Users\admin\Desktop\2015-2016\Aulas\LP2\Acetatos\NTier\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.pdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.dll
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\SumariosBO\bin\Debug\SumariosBO.pdb
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.csprojAssemblyReference.cache
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.csproj.CoreCompileInputs.cache
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.dll
+D:\IPCA\2020-2021\AULAS\Semestre 2\LP2\Slides\Outros\NTier\GereSumariosNTier\SumariosBO\obj\Debug\SumariosBO.pdb

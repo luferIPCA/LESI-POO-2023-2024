@@ -1,0 +1,14 @@
+D:\Temp\Aulas\2020-05-15 - Aula 18 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe.config
+D:\Temp\Aulas\2020-05-15 - Aula 18 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\Aulas\2020-05-15 - Aula 18 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.pdb
+D:\Temp\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.pdb
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-15 - Aula 18 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe.config
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-15 - Aula 18 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-15 - Aula 18 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.pdb
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.csprojAssemblyReference.cache
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-15 - Aula 18 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.pdb
